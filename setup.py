@@ -21,7 +21,7 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 name='ML_OPS_Poject',
-version='0.1',
+version='0.0.1',
 author='Akash',
 author_email='aakashgithub1312@gmail.com',
 packages=find_packages(),
